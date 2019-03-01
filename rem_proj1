@@ -1,0 +1,8 @@
+#!/bin/bash
+#to remove everything performed by project
+for u in {1..5}
+do
+sudo userdel -r temp$u
+done
+
+sudo rm -ri /sandbox
