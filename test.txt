@@ -1,1 +1,0 @@
-/home/devin/apache-tomcat-9.0.14/logs/localhost.2019-02-07.log
